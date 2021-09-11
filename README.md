@@ -7,17 +7,23 @@ For starter, checkout my homepage, summary of my projects.
 [Homepage](https://hasuzawa.github.io/homepage/)<br />
 [Summary of my projects](https://github.com/Hasuzawa/central_repository)
 
-<!--
-**Hasuzawa/Hasuzawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I have experience in ...
+<details close>
+<summary>stack</summary>
+  
+#### Design, UI
+ Figma, Inkscape, Gimp
 
-Here are some ideas to get you started:
+#### Frontend
+  React, Next.js, Typescript, HTML, CSS, Tailwind, Sass, Javascript, Apollo, GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Backend
+  Java, Python, Django, GraphQL, Graphene, SQL
+ 
+#### Others
+  C, C++, Linux
+  
+<!-- #### on my watch list
+  Electron, Qisbit, 
+
+--->
