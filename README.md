@@ -1,4 +1,12 @@
 ### Hi there 👋
+### Welcome
+
+I am a frontend developer working in Osaka, Japan. I am most proficient with React, Typescript, Next.js, HTML, CSS. I am still working on some personal project and polishing my skills. I am most interested in working in Typescript, Next.js, React. I design my own UI and draw my own logos so I also have experience in UI, UX design.
+
+For starter, checkout my homepage, summary of my projects.
+
+[Homepage](https://hasuzawa.github.io/homepage/)
+[Summary of my projects](https://github.com/Hasuzawa/central_repository)
 
 <!--
 **Hasuzawa/Hasuzawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
