@@ -9,7 +9,7 @@ For starter, checkout my homepage, summary of my projects.
 
 ### I have experience in ...
 <details close>
-<summary>stack</summary>
+<summary>stacks</summary>
   
 #### Design, UI
  Figma, Inkscape, Gimp
@@ -21,7 +21,7 @@ For starter, checkout my homepage, summary of my projects.
   Java, Python, Django, GraphQL, Graphene, SQL
  
 #### Others
-  C, C++, Linux
+  C, C++, Linux, Jest, cypress
   
 <!-- #### on my watch list
   Electron, Qisbit, 
