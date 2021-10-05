@@ -5,7 +5,7 @@ I am a frontend developer working in Japan. I am most proficient with React, Typ
 For starter, checkout my homepage, summary of my projects.
 
 [Homepage](https://hasuzawa.github.io/homepage/)<br />
-[Summary of my projects](https://github.com/Hasuzawa/central_repository)
+[Summary of my Projects](https://central-repository.vercel.app/)
 
 ### I have experience in ...
 <details close>
@@ -15,7 +15,7 @@ For starter, checkout my homepage, summary of my projects.
  Figma, Inkscape, Gimp
 
 #### Frontend
-  React, Next.js, Typescript, HTML, CSS, Tailwind, Sass, Javascript, Apollo, GraphQL, Framer
+  React, Next.js, Typescript, HTML, CSS, Tailwind, Sass, Javascript, Apollo, GraphQL, Framer, MobX
 
 #### Backend
   Java, Python, Django, GraphQL, Graphene, SQL
