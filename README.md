@@ -9,19 +9,19 @@ For starter, checkout my homepage, summary of my projects.
 
 ### I have experience in ...
 <details close>
-<summary>stacks</summary>
+<summary>stacks & tools</summary>
   
 #### Design, UI
  Figma, Inkscape, Gimp
 
 #### Frontend
-  React, Next.js, Typescript, HTML, CSS, Tailwind, Sass, Javascript, Apollo, GraphQL, Framer, MobX
+  React, Next.js, Typescript, HTML, CSS, Tailwind, Sass, Javascript, Apollo, GraphQL, Framer, Jest, cypress, MobX, Redux, Svelte, React Native, i18n
 
 #### Backend
-  Java, Python, Django, GraphQL, Graphene, SQL
+  Java, Python, Django, GraphQL, Graphene, SQL, PostgreSQL
  
 #### Others
-  C, C++, Linux, Jest, cypress, Git, GitHub Action
+  C, C++, Linux, Git, GitHub Action
   
 <!-- #### on my watch list
   Electron, Qisbit, 
