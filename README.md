@@ -1,29 +1,26 @@
 ### Welcome
 
-I am a frontend developer working in Japan. I am most proficient with React, Typescript, Next.js, HTML, CSS. I am still working on some personal project and polishing my skills. I am most interested in working in Typescript, Next.js, React. I design my own UI and draw some of the logos so I also have experience in UI, UX design. I can prioritise utility or visuals as needed.
-
-For starter, checkout my homepage, summary of my projects.
-
-[Homepage](https://hasuzawa.github.io/homepage/)<br />
-[Summary of my Projects](https://central-repository.vercel.app/)
+I am a database and Linux administrator by day and fullstack developer by night. I have work experience working in frontend, backend, database, server. I am also interested in Linux and 3D. I am exploring different areas of IT to see which one fits me the most.
 
 ### I have experience in ...
 <details close>
 <summary>stacks & tools</summary>
   
-#### Design, UI
- Figma, Inkscape, Gimp
+#### Programming Languages
+C, C++, Java, Javascript, Typescript, Python, Go
+  
+#### Web Design, UI
+Figma, Inkscape, Gimp
 
 #### Frontend
-  React, Next.js, Typescript, HTML, CSS, Tailwind, Sass, Javascript, Apollo, GraphQL, Framer, Jest, cypress, MobX, Redux, Svelte, React Native, i18n
+React, Next.js, HTML, CSS, Tailwind CSS, Sass, Apollo, GraphQL, Framer, Jest, cypress, MobX, Redux, Svelte, React Native, i18n
+Vue3, Pinia, VueUse, Vue I18n
 
 #### Backend
-  Java, Python, Django, GraphQL, Graphene, SQL, PostgreSQL
+Django, GraphQL, Graphene, SQL, PostgreSQL, PostgreSQL, Oracle DB, Server, Networking
  
-#### Others
-  C, C++, Linux, Git, GitHub Action
+#### CICD, Infrastructure
+Git, GitHub Action, Terrafrom,
   
-<!-- #### on my watch list
-  Electron, Qisbit, 
-
---->
+#### Others
+Linux, OS(Windows, MacOS, Ubuntu, raspberry Pi OS), Vim, Gnome, Virtual Machine
