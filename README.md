@@ -1,26 +1,25 @@
 ### Welcome
 
-I am a database and Linux administrator by day and fullstack developer by night. I have work experience working in frontend, backend, database, server. I am also interested in Linux and 3D. I am exploring different areas of IT to see which one fits me the most.
+I am a database and Linux administrator by day and fullstack developer by night. I have work experience working in frontend, backend, database, server. I am looking for software, application or web developer position.
 
 ### I have experience in ...
 <details close>
 <summary>stacks & tools</summary>
   
 #### Programming Languages
-C, C++, Java, Javascript, Typescript, Python, Go
+Javascript, Typescript, Java, Python, C, C++, Go
+
+#### Frontend
+React, Next.js, HTML, CSS, Tailwind CSS, Sass, Apollo, GraphQL, Framer, Jest, cypress, MobX, Redux, Styled-Component
+locale, routing, internationalization, prisma
   
 #### Web Design, UI
 Figma, Inkscape, Gimp
 
-#### Frontend
-React, Next.js, HTML, CSS, Tailwind CSS, Sass, Apollo, GraphQL, Framer, Jest, cypress, MobX, Redux, Svelte, React Native, i18n
-Vue3, Pinia, VueUse, Vue I18n
-
 #### Backend
-Django, GraphQL, Graphene, SQL, PostgreSQL, PostgreSQL, Oracle DB, Server, Networking
+node.js, express.js, Django, GraphQL, Graphene, SQL, PostgreSQL, nginx
  
-#### CICD, Infrastructure
-Git, GitHub Action, Terrafrom,
-  
-#### Others
-Linux, OS(Windows, MacOS, Ubuntu, raspberry Pi OS), Vim, Gnome, Virtual Machine
+#### CICD, DevOp
+Git, Linux, Vim, Terraform, GitHub Action, Selenium, Postman
+
+</details>
