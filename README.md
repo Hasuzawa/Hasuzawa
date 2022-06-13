@@ -1,6 +1,6 @@
 ### Welcome
 
-I am a database and Linux administrator by day and fullstack developer by night. I have work experience working in frontend, backend, database, server. I am looking for software, application or web developer position.
+I am a database and Linux administrator by day and fullstack developer by night. I have work experience working in frontend, backend, database, server. I am diligently improving my skills as a programmer and developer.
 
 ### I have experience in ...
 <details close>
