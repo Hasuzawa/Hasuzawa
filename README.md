@@ -1,25 +1,21 @@
 ### Welcome
 
-I am a database and Linux administrator by day and fullstack developer by night. I have work experience working in frontend, backend, database, server. I am diligently improving my skills as a programmer and developer.
+I am a developer working in Japan, Tokyo.
 
 ### I have experience in ...
 <details close>
 <summary>stacks & tools</summary>
   
 #### Programming Languages
-Javascript, Typescript, Java, Python, C, C++, Go
+Python, Typescript, Swift, Java
 
 #### Frontend
-React, Next.js, HTML, CSS, Tailwind CSS, Sass, Apollo, GraphQL, Framer, Jest, cypress, MobX, Redux, Styled-Component
-locale, routing, internationalization, prisma
-  
-#### Web Design, UI
-Figma, Inkscape, Gimp
+React, Next.js, CSS, HTML
 
 #### Backend
-node.js, express.js, Django, GraphQL, Graphene, SQL, PostgreSQL, nginx
+node.js, flask.py, SQL
  
 #### CICD, DevOp
-Git, Linux, Vim, Terraform, GitHub Action, Selenium, Postman
+Git, Linux, Postman
 
 </details>
